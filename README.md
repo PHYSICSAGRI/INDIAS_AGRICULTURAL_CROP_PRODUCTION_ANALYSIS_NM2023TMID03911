@@ -5,6 +5,8 @@ DASHBOARD 1 PUBLIC LINK: https://public.tableau.com/app/profile/sathiya.lakshmi.
 
 DASHBOARD 2 PUBLIC LINK:  https://public.tableau.com/app/profile/sathiya.lakshmi.g/viz/INDIASAGRICULTURALDASHBOARD-2/Dashboard2?publish=yes
 
+DASHBOARD 3 PUBLIC LINK: https://public.tableau.com/app/profile/sathiya.lakshmi.g/viz/INDIASAGRICULTURALSGDASHBOARD3/Dashboard3?publish=yes
+
 STORY 1 PUBLIC LINK: https://public.tableau.com/app/profile/sathiya.lakshmi.g/viz/INDIASAGRICULTURALSGSTORY-1/Story1?publish=yes
 
 STORY 2  PUBLIC LINK:  https://public.tableau.com/app/profile/sathiya.lakshmi.g/viz/INDIASAGRICULTURALSGSTORY-2/Story2?publish=yes
